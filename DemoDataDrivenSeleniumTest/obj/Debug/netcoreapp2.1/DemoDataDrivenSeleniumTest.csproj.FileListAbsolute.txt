@@ -1,0 +1,15 @@
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.deps.json
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.runtimeconfig.json
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.runtimeconfig.dev.json
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.dll
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\obj\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.csprojAssemblyReference.cache
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\obj\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.csproj.CoreCompileInputs.cache
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\obj\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.AssemblyInfoInputs.cache
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\obj\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.AssemblyInfo.cs
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\bin\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.pdb
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\obj\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.dll
+D:\venko\QAautomation\WebDriverDemo\DemoDataDrivenSeleniumTest\obj\Debug\netcoreapp2.1\DemoDataDrivenSeleniumTest.pdb
