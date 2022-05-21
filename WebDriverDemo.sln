@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverDemo", "WebDriverD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestSel", "NUnitTestSel\NUnitTestSel.csproj", "{97CAA9D7-8272-47F1-90F6-593ED9B28AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDataDrivenSeleniumTest", "DemoDataDrivenSeleniumTest\DemoDataDrivenSeleniumTest.csproj", "{D5162602-EF9A-4DC9-A180-BF1099F1A831}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoDataDrivenSeleniumTest", "DemoDataDrivenSeleniumTest\DemoDataDrivenSeleniumTest.csproj", "{D5162602-EF9A-4DC9-A180-BF1099F1A831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikipediaTestDemo", "WikipediaTestDemo\WikipediaTestDemo.csproj", "{73203FB3-0FD7-49A4-90AC-DA17528842C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D5162602-EF9A-4DC9-A180-BF1099F1A831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5162602-EF9A-4DC9-A180-BF1099F1A831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5162602-EF9A-4DC9-A180-BF1099F1A831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73203FB3-0FD7-49A4-90AC-DA17528842C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73203FB3-0FD7-49A4-90AC-DA17528842C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73203FB3-0FD7-49A4-90AC-DA17528842C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73203FB3-0FD7-49A4-90AC-DA17528842C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
